@@ -1,5 +1,1 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hello there! I'm Niranjana Hegde Bhimanakone Satyanarayana (Phew! Very long name, I know!) but you can call me Niranjan (n̪iɾɐnd͡ʒɐn̪). I'm a Masters student in [Language Science and Technology](https://www.uni-saarland.de/en/department/lst/about-us.html) at [Saarland University](https://www.uni-saarland.de/en/home.html), Germany. Alongside my studies, I work as a [student assitant](https://www.uni-saarland.de/lehrstuhl/demberg.html) under [Prof. Dr. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html).
