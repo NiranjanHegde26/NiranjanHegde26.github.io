@@ -2,6 +2,15 @@
 <html lang="{{ site.lang }}">
   <!-- Head -->
   <head>
+  <!-- Load IPA-compatible font -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+IPA&display=swap">
+
+    <style>
+        .ipa {
+            font-family: 'Noto Sans IPA', 'Doulos SIL', 'Charis SIL', 'Times New Roman', sans-serif;
+            font-size: 1.2em;
+        }
+    </style>
     {% if page.redirect %}
       {% if page.redirect == true %}
         {% assign redirect = site.baseurl | append: '/' %}

@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello there! I'm Niranjana Hegde Bhimanakone Satyanarayana (Phew! Very long name, I know!) but you can call me Niranjan (n̪iɾɐnd͡ʒɐn̪). I'm a Masters student in [Language Science and Technology](https://www.uni-saarland.de/en/department/lst/about-us.html) at [Saarland University](https://www.uni-saarland.de/en/home.html), Germany. Alongside my studies, I work as a [student assitant](https://www.uni-saarland.de/lehrstuhl/demberg.html) under [Prof. Dr. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html).
+Hello there! I'm Niranjana Hegde Bhimanakone Satyanarayana (Phew! Very long name, I know!) but you can call me Niranjan <span class="ipa">(n̪iɾɐnd͡ʒɐn̪)</span>. I'm a Masters student in [Language Science and Technology](https://www.uni-saarland.de/en/department/lst/about-us.html) at [Saarland University](https://www.uni-saarland.de/en/home.html), Germany. Alongside my studies, I work as a [student assitant](https://www.uni-saarland.de/lehrstuhl/demberg.html) under [Prof. Dr. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html).
 
 Although my broad range of interests is in psycholinguistics, computational psycholinguistics, language acquisition, language and memory, and consciousness, I am eager to work more on lexical and semantic representations in humans and the interplay between them and memory. You can check some of the papers I wrote for my curriculum on similar topics in the "Projects" section.
 
