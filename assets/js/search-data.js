@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "My academic and non-academic projects!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -370,22 +370,7 @@ ninja.data = [{
     },{id: "news-started-my-masters-at-saarland-university-sparkles-smile",
           title: 'Started my Masters at Saarland University! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
+          section: "News",},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
@@ -415,6 +400,21 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-enhanced-cyber-security-in-iot-using-deep-belief-network",
+          title: 'Enhanced Cyber Security in IoT Using Deep Belief Network',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Cyber-Security-in-IoT/";
+            },},{id: "projects-simple-hotel-reservation-portal",
+          title: 'Simple Hotel Reservation Portal',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Hotel-Reservation-Portal/";
+            },},{id: "projects-ordering-and-billing-system",
+          title: 'Ordering and Billing System',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Ordering-and-Billing-System/";
             },},{
         id: 'social-email',
         title: 'email',
