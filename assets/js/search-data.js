@@ -390,16 +390,6 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{id: "projects-enhanced-cyber-security-in-iot-using-deep-belief-network",
           title: 'Enhanced Cyber Security in IoT Using Deep Belief Network',
           description: "",
@@ -415,6 +405,16 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Ordering-and-Billing-System/";
+            },},{id: "projects-nonselective-lexical-access-in-german-l2-english-speakers",
+          title: 'Nonselective Lexical Access in German L2 English Speakers',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/false-friends/";
+            },},{id: "projects-named-entity-recognition-in-code-switched-data",
+          title: 'Named Entity Recognition in Code-Switched Data',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ner-tagging/";
             },},{
         id: 'social-email',
         title: 'email',
