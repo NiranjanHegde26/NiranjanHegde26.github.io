@@ -23,16 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -370,8 +363,11 @@ ninja.data = [{
     },{id: "news-started-my-masters-at-saarland-university-sparkles-smile",
           title: 'Started my Masters at Saarland University! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-4",
-          title: 'project 4',
+          section: "News",},{id: "news-our-abstract-titled-does-ukrainian-serve-as-a-good-bridge-language-for-russian-speakers-in-understanding-other-slavic-languages-has-been-accepted-for-presentation-at-the-9th-workshop-on-multilingual-acqusition-processing-and-use-sparkles",
+          title: 'Our abstract titled “Does Ukrainian serve as a good bridge language for Russian...',
+          description: "",
+          section: "News",},{id: "projects-ukrainian-as-a-bridge-language",
+          title: 'Ukrainian As a Bridge Language',
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
