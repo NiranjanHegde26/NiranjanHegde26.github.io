@@ -2,7 +2,7 @@
 layout: page
 title: Enhanced Cyber Security in IoT Using Deep Belief Network
 description: 
-img: assets/img/7.jpg
+image: 
 importance: 1
 category: bachelors
 ---
