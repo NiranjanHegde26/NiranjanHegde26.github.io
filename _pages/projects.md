@@ -5,7 +5,7 @@ permalink: /projects/
 description: My academic and non-academic projects!
 nav: true
 nav_order: 3
-display_categories: [bachelors, masters, fun]
+display_categories: [bachelors, masters,  term papers, fun,]
 horizontal: false
 ---
 

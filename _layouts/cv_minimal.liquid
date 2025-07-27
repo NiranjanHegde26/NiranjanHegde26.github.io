@@ -1,0 +1,68 @@
+---
+layout: default
+title: Curriculum Vitae
+---
+
+<div class="max-w-4xl mx-auto px-4 py-12">
+  <h1 class="text-4xl font-bold mb-8">Curriculum Vitae</h1>
+
+  {% assign cv = site.data.cv %}
+
+  {% for section in cv %}
+    <div class="mb-10">
+      <h2 class="text-2xl font-semibold mb-4">{{ section.title }}</h2>
+
+      {% case section.type %}
+        {% when "map" %}
+          <ul class="space-y-2">
+            {% for item in section.contents %}
+              <li class="flex justify-between">
+                <span class="font-medium">{{ item.name }}</span>
+                <span>{{ item.value }}</span>
+              </li>
+            {% endfor %}
+          </ul>
+
+        {% when "time_table" %}
+          <div class="space-y-4">
+            {% for item in section.contents %}
+              <div>
+                <div class="flex justify-between">
+                  <h3 class="font-semibold text-xl">{{ item.title }}</h3>
+                  <span class="text-sm text-gray-600">{{ item.duration }}</span>
+                </div>
+                {% if item.institution %}
+                  <p class="text-gray-700 italic">{{ item.institution }}</p>
+                {% endif %}
+                {% if item.description %}
+                  <p class="text-sm mt-1 text-gray-600">{{ item.description }}</p>
+                {% endif %}
+              </div>
+            {% endfor %}
+          </div>
+
+        {% when "nested_list" %}
+          <ul class="list-disc list-inside space-y-2">
+            {% for item in section.contents %}
+              <li>
+                <strong>{{ item.title }}</strong>
+                <ul class="list-disc list-inside ml-5">
+                  {% for subitem in item.items %}
+                    <li>{{ subitem }}</li>
+                  {% endfor %}
+                </ul>
+              </li>
+            {% endfor %}
+          </ul>
+
+        {% when "list" %}
+          <ul class="list-disc list-inside space-y-1">
+            {% for item in section.contents %}
+              <li>{{ item }}</li>
+            {% endfor %}
+          </ul>
+
+      {% endcase %}
+    </div>
+  {% endfor %}
+</div>
