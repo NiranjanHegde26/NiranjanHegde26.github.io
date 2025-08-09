@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: My academic and non-academic projects!
+description: A sneak peak into some of my projects!
 nav: true
 nav_order: 3
 display_categories: [bachelors, masters,  term papers, fun,]
