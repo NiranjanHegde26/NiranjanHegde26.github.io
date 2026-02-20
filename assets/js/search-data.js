@@ -389,6 +389,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/language_evolution/";
+            },},{id: "projects-master-thesis",
+          title: 'Master Thesis',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/master-thesis/";
             },},{id: "projects-named-entity-recognition-in-code-switched-data",
           title: 'Named Entity Recognition in Code-Switched Data',
           description: "",
