@@ -11,4 +11,4 @@ This study was conducted in collaboration with [Dr. Torsten Jachmann](https://ww
 
 This study explores how German-English bilinguals process language, focusing on the influence of **false friends**—words that look similar in both languages but have different meanings. Results showed that **false friends slow down reading times**, regardless of English proficiency, confirming **nonselective lexical access**, where both languages are activated simultaneously. However, more proficient speakers are better at distinguishing meanings, leading to higher comprehension accuracy. These findings support the **BIA+ model**, a theoritical model of bilingual word recognition.
 
-I am extending the work we did for the course into Masters thesis by exploring the effects of individual differences in inhibition control in the conflict resolution of meanings of False friends in L2 sentence comprehension.
+I extended the work we did for the course into Masters thesis by exploring the effects of individual differences in inhibition control in the conflict resolution of meanings of False friends in L2 sentence comprehension. Check it out [here](/projects/master-thesis).
