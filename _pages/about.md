@@ -6,7 +6,7 @@ subtitle: Masters in Language Science and Technology, Saarland University
 
 profile:
   align: right
-  image: profile_pic.png
+  image: profile_pic.jpeg
   image_circular: false # crops the image to make it circular
 
 
@@ -26,6 +26,6 @@ latest_posts:
 
 Hello there! I'm Niranjana Hegde Bhimanakone Satyanarayana (Phew! Very long name, I know!) but you can call me Niranjan <span class="ipa">(n̪iɾɐnd͡ʒɐn̪)</span>. I completed my Masters in [Language Science and Technology](https://www.uni-saarland.de/en/department/lst/about-us.html) at [Saarland University](https://www.uni-saarland.de/en/home.html), Germany. Alongside my studies, I also worked as a student assitant under [Prof. Dr. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). My Masters Thesis investigated the role of individual differences of inhibition control of bilinguals when they read L2 sentences containing interlingual homographs.
 
-Although my broad range of interests is in psycholinguistics, computational psycholinguistics, language and memory, and consciousness, I am eager to work more on bilingual sentence comprehension and cognitive factors such as working memory, attention and inhibitory control. Additionally, I intend to understand them to derive models that best captures the computational mechanism of language processing and other cognitive factors. I am an incoming PhD student at Universidad Antonio de Nebrija, Madrid where I will be a part of the MSCA doctoral network [HUM.AI.N-ACCENT](https://humain-accent.eu). You can check some of the papers I wrote for my curriculum on similar topics in the "Projects" section.
+Although my broad range of interests is in psycholinguistics, computational psycholinguistics, language and memory, I am eager to work more on bilingual sentence comprehension and cognitive factors such as working memory, attention and inhibitory control. Additionally, I intend to understand them to derive models that best captures the computational mechanism of language processing and other cognitive factors. I am an incoming PhD student at Universidad Antonio de Nebrija, Madrid where I will be a part of the MSCA doctoral network [HUM.AI.N-ACCENT](https://humain-accent.eu). You can check some of the papers I wrote for my curriculum on similar topics in the "Projects" section.
 
 In my free time, I am busy being an amateur photographer; writing poetry and short stories; watching football; reading crime, mystery, suspense, detective thrillers, or psychological thriller novels (although my current obsessions are science non-fiction books); or binge-watching TV shows or movies of the aforementioned genres. You can check my photography on Unsplash. I often write prose and poetry based on my photographs, and you can check it on my Instagram account! Most of my writings are in my mother tongue, Kannada (a Dravidian language from South India).
