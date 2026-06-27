@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Masters in Language Science and Technology, Saarland University
+subtitle: 
 
 profile:
   align: right
