@@ -365,7 +365,7 @@ ninja.data = [{
           section: "News",},{id: "news-started-my-phd-in-education-and-cognitive-processes-at-nebrija-university-spain-partying-face",
           title: 'Started my PhD in Education and Cognitive Processes at Nebrija University, Spain :partying_face:...',
           description: "",
-          section: "News",},{id: "news-our-abstract-titled-no-evidence-for-inhibition-control-or-interlingual-homograph-interference-in-bilingual-sentence-processing-a-self-paced-reading-study-has-been-accepted-for-poster-presentation-at-the-amlap-2026-sparkles-tada",
+          section: "News",},{id: "news-our-abstract-titled-no-evidence-for-inhibition-control-or-interlingual-homograph-interference-in-bilingual-sentence-processing-a-self-paced-reading-study-has-been-accepted-for-poster-presentation-at-the-amlap-2026-sparkles-tada-click-here-to-view-the-poster",
           title: 'Our abstract titled “No Evidence for Inhibition Control or Interlingual Homograph Interference in...',
           description: "",
           section: "News",},{id: "projects-enhanced-cyber-security-in-iot-using-deep-belief-network",
