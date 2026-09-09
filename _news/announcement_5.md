@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our abstract titled **"No Evidence for Inhibition Control or Interlingual Homograph Interference in Bilingual Sentence Processing: A Self-Paced Reading Study"** has been accepted for poster presentation at the AMLaP 2026 :sparkles: :tada:
+Our abstract titled **"No Evidence for Inhibition Control or Interlingual Homograph Interference in Bilingual Sentence Processing: A Self-Paced Reading Study"** has been accepted for poster presentation at the AMLaP 2026 :sparkles: :tada: Click [here]({{ '/assets/pdf/AMLaP2026.pdf' | relative_url }}) to view the poster!
